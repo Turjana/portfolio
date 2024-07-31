@@ -353,9 +353,6 @@ nav ul li a {
     scale: 1.035;
     background-color: rgba(0, 0, 0, 0.06);
 }
-.cert-img {
-
-}
 .cert-img img {
     width: 100%;
     height: auto;
@@ -442,9 +439,6 @@ nav ul li a {
     scale: 1.1;
     transition: scale 0.35s cubic-bezier(0,0,0.58,1);
 }
-.form-submit {
-}
-
 
 /* ПОДВАЛ */
 .footer {
