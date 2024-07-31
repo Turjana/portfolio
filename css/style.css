@@ -4,9 +4,9 @@
     scroll-behavior: smooth;
     font-family: "PT Sans", sans-serif;
 }
-html {
+/* html {
     width: 100vh;
-}
+} */
 #menu {
     position: fixed;
     display: flex;
